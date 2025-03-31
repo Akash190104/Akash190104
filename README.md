@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a pre-final year CS undergrad from Kolkata, India. I'm currently a Research Analyst Intern at Lionheart Ventures. I am pursuing alignment research and I have worked on technical AI Safety Evaluations as a research fellow at Apart Research. 
+I am a pre-final year CS undergrad from Kolkata, India. I'm currently a Data Scientist at Humane Intelligence. I am pursuing alignment research and I have worked on technical AI Safety Evaluations as a research fellow at Apart Research. 
 
 
 ## 🌐 Socials:
